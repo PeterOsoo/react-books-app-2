@@ -5,7 +5,12 @@ const BookList = () => {
 	return (
 		<section className="booklist">
 			{" "}
-			<Book />{" "}
+			<Book />
+			<Book />
+			<Book />
+			<Book />
+			<Book />
+			<Book />
 		</section>
 	)
 }
