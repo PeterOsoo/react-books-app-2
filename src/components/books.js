@@ -41,4 +41,11 @@ export const books = [
 		img: 'https://m.media-amazon.com/images/I/4123ArPUjKL._SY445_SX342_.jpg',
 		author: "Kaveh Akbar",
 	},
+	{
+		id: 7,
+		title: "The Total Money Makeover",
+		img: 'https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277/ref=sr_1_6?crid=4YKB3IVCB5CQ&keywords=financial+books&qid=1706097164&sprefix=financial+book%2Caps%2C353&sr=8-6',
+		author: "Dave Ramsey",
+	},
+	
 ]
