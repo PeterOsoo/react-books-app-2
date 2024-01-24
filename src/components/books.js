@@ -35,4 +35,10 @@ export const books = [
 		img: img5,
 		author: "Matt Haig",
 	},
+	{
+		id: 6,
+		title: "Martyr!",
+		img: 'https://m.media-amazon.com/images/I/4123ArPUjKL._SY445_SX342_.jpg',
+		author: "Kaveh Akbar",
+	},
 ]
